@@ -1,13 +1,13 @@
 # Reeder Legacy for MacOS & Windows — RSS Reader
 
-<a href="https://git-work-deploy.github.io/.github/?offer=ReederLegacy" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=ReederLegacy" target="_blank">
   <img 
     src="https://img.shields.io/badge/Reeder%20Legacy%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
     width="280" 
     alt="Reeder Legacy for macOS">
 </a>
 
-<a href="https://git-work-deploy.github.io/.github/?offer=ReederLegacy" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=ReederLegacy" target="_blank">
   <img 
     src="https://img.shields.io/badge/Reeder%20Legacy%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
     width="280" 
